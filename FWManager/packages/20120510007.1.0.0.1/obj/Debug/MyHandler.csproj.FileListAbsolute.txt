@@ -1,0 +1,6 @@
+D:\vvcode\MyHandler\MyHandler\obj\Debug\ResolveAssemblyReference.cache
+D:\vvcode\MyHandler\MyHandler\bin\Debug\MyHandler.dll
+D:\vvcode\MyHandler\MyHandler\bin\Debug\MyHandler.pdb
+D:\vvcode\MyHandler\MyHandler\bin\Debug\Microsoft.Msn.Set.Web.dll
+D:\vvcode\MyHandler\MyHandler\obj\Debug\MyHandler.dll
+D:\vvcode\MyHandler\MyHandler\obj\Debug\MyHandler.pdb

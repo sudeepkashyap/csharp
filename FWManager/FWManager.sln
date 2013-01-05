@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.2.8818
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FWManager", "FWManager\FWManager.csproj", "{454CE634-5523-4367-A663-52A1D6DEEEAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FWService", "FWService\FWService.csproj", "{8F6ED6D7-2338-4D4F-9EDD-D55EEC1A7174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454CE634-5523-4367-A663-52A1D6DEEEAA}.Debug|x86.Build.0 = Debug|x86
+		{454CE634-5523-4367-A663-52A1D6DEEEAA}.Debug|x86.ActiveCfg = Debug|x86
+		{454CE634-5523-4367-A663-52A1D6DEEEAA}.Release|x86.Build.0 = Release|x86
+		{454CE634-5523-4367-A663-52A1D6DEEEAA}.Release|x86.ActiveCfg = Release|x86
+		{8F6ED6D7-2338-4D4F-9EDD-D55EEC1A7174}.Debug|x86.Build.0 = Debug|x86
+		{8F6ED6D7-2338-4D4F-9EDD-D55EEC1A7174}.Debug|x86.ActiveCfg = Debug|x86
+		{8F6ED6D7-2338-4D4F-9EDD-D55EEC1A7174}.Release|x86.Build.0 = Release|x86
+		{8F6ED6D7-2338-4D4F-9EDD-D55EEC1A7174}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

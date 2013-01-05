@@ -1,0 +1,13 @@
+<configuration>
+	<system.web>
+		<httpHandlers>
+      			<add path="CustomizeCacheHandler.ashx" verb="*" type="MyHandler.SyncHandler,MyHandler"/>
+      		</httpHandlers>
+		
+	</system.web>
+	<system.webServer>
+		<handlers>
+     			<add name="CustomizeCacheHandler" path="CustomizeCacheHandler.ashx" verb="*" type="MyHandler.SyncHandler,MyHandler"/>
+     		</handlers>
+	</system.webServer>
+</configuration>
